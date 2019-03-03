@@ -1,9 +1,5 @@
 ## Education Code
 
-<br />
-
-### Contents:
-
 **Console:**
 * [Binery File Processing in C#](https://github.com/MMovasaghi/BinaryFileProcessing)
 
