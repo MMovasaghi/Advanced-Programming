@@ -42,6 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\BirthDate.cs" />
+    <Compile Include="Classes\Enum\Gender.cs" />
+    <Compile Include="Classes\Person.cs" />
+    <Compile Include="Classes\Student.cs" />
+    <Compile Include="Classes\Teacher.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
