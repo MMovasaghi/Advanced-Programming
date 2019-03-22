@@ -3,7 +3,7 @@
 **Documents:**
 
 * [Simple-GitHub-Project](https://github.com/MMovasaghi/github.learn)
-
+* [Lecture-Slides](https://github.com/MMovasaghi/github.learn/blob/master/Get%20Started%20with%20Git.pptx)
 
 **See these Videos :**
 
