@@ -9,10 +9,7 @@
 
 <br/>
 
-**Console:**
-* [Binery File Processing in { C# }](https://github.com/MMovasaghi/BinaryFileProcessing)
-* [Find out the number of word in file { PYTHON }](https://github.com/MMovasaghi/Search-Word-InTEXT)
-* [Code First DataBase](https://github.com/MMovasaghi/ASP.net-Core/tree/master/CodeFirstDB)
+### [Console](https://github.com/MMovasaghi/Advanced-Programming/tree/master/Edu.Code/Console)
 
 <br/>
 
@@ -21,9 +18,8 @@
 
 <br/>
 
-**[WPF:](https://github.com/MMovasaghi/Advanced-Programming/tree/master/Edu.Code/WPF)**
+### [WPF](https://github.com/MMovasaghi/Advanced-Programming/tree/master/Edu.Code/WPF)
 
 <br/>
 
-**ASP.Net:**
-* [ASP.net Core Get Start](https://github.com/MMovasaghi/ASP.net-Core)
+### [ASP.net](https://github.com/MMovasaghi/Advanced-Programming/tree/master/Edu.Code/ASP)
