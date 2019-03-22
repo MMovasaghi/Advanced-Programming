@@ -12,3 +12,4 @@
 
 **Videos:**
 * [Login Form](https://www.aparat.com/v/6w9vH)
+* [WPF Dashboard](https://www.aparat.com/v/bQulI)
