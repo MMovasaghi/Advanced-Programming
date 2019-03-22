@@ -1,4 +1,4 @@
-### Git Tutorial
+# Git Tutorial
 
 **Documents:**
 
