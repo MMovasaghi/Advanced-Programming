@@ -3,10 +3,10 @@
 ## Teacher : Dr. Khadangi
 ### TA : MH.Movaseghinia
 **Contents:**
-
+* [Education Documents](https://github.com/MMovasaghi/Advanced-Programming-Csharp/tree/master/Edu.Code)
+* [TA Sessions](https://github.com/MMovasaghi/Advanced-Programming-Csharp/tree/master/Edu.Code)
 * [Project Tutorial](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Project/ProjectToturial.pdf)
 * [Teacher Lectures](https://github.com/MMovasaghi/Advanced-Programming/tree/master/Lectures)
 * [Git Tutorial](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Project/README.md)
-* [Education Code](https://github.com/MMovasaghi/Advanced-Programming-Csharp/tree/master/Edu.Code)
 * [VS-Installation tutorial](https://github.com/MMovasaghi/Advanced-Programming-Csharp/tree/master/VS-Installation)
-
+* [Text-Book](https://cscnt.savannahstate.edu/StudentFiles/Data_Structure/Visual%20C%23%202012%20How%20to%20Program.pdf)
