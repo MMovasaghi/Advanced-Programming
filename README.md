@@ -4,7 +4,7 @@
 ### TA : MH.Movaseghinia
 **Contents:**
 * [Education Documents](https://github.com/MMovasaghi/Advanced-Programming-Csharp/tree/master/Edu.Code)
-* [TA Sessions](https://github.com/MMovasaghi/Advanced-Programming-Csharp/tree/master/Edu.Code)
+* [TA Sessions](https://github.com/MMovasaghi/Advanced-Programming/tree/master/TA%20Sessions)
 * [Project Tutorial](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Project/ProjectToturial.pdf)
 * [Teacher Lectures](https://github.com/MMovasaghi/Advanced-Programming/tree/master/Lectures)
 * [Git Tutorial](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Project/README.md)
