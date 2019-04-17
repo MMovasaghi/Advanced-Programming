@@ -5,3 +5,4 @@
 * [Lecture-02](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/lecture%202.pdf)
 * [Lecture-03](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/lecture%203%20OOP%20intro.pdf)
 * [Lecture-04](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/lecture%204.pdf)
+* [Lecture-05](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/lecture%205.pdf)
