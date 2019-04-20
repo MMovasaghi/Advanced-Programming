@@ -8,5 +8,5 @@
 
 <br/>
 
-* [Session03-Part1](https://www.aparat.com/v/q7juX)
+* [Session03-Part1](https://www.aparat.com/v/Udi23)
 * [Session03-Part2](https://www.aparat.com/v/p2daY)
