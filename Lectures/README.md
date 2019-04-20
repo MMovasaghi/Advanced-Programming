@@ -5,5 +5,5 @@
 * [Lecture-02](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/lecture%202.pdf)
 * [Lecture-03](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/lecture%203.pdf)
 * [Lecture-04](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/lecture%204.pdf)
-* [Lecture-07](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/lecture%207.pdf)
-* [Lecture-08](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/lecture%208.pdf)
+* [lecture-05-Methods](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/lecture%205%20methods.pdf)
+* [Lecture-06-Arrays & Exception](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/lecture%206%20arrays&Exception.pdf)
