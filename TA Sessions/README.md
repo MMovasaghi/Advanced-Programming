@@ -10,3 +10,12 @@
 
 * [Session03-Part1](https://www.aparat.com/v/Udi23)
 * [Session03-Part2](https://www.aparat.com/v/p2daY)
+
+<br/>
+
+* [Session04-Part1 Entity Framework](https://www.aparat.com/v/QugU2)
+* [Session04-Part2 Entity Framework](https://www.aparat.com/v/pHs5i)
+
+<br/>
+
+* [Session05-Part1 WPF Login Form with EF DB](https://www.aparat.com/v/yk6uT)
