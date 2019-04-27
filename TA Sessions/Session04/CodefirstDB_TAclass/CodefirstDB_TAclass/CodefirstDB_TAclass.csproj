@@ -128,9 +128,9 @@
   <ItemGroup>
     <Compile Include="Blog.cs" />
     <Compile Include="BloggingContext.cs" />
-    <Compile Include="Migrations\20190422114949_InitialCreate.cs" />
-    <Compile Include="Migrations\20190422114949_InitialCreate.designer.cs">
-      <DependentUpon>20190422114949_InitialCreate.cs</DependentUpon>
+    <Compile Include="Migrations\20190427133749_ins.cs" />
+    <Compile Include="Migrations\20190427133749_ins.designer.cs">
+      <DependentUpon>20190427133749_ins.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\BloggingContextModelSnapshot.cs" />
     <Compile Include="Post.cs" />
