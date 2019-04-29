@@ -19,3 +19,4 @@
 <br/>
 
 * [Session05-Part1 WPF Login Form with EF DB](https://www.aparat.com/v/yk6uT)
+* [Session05-Part2 TA](https://www.aparat.com/v/zs18g)
