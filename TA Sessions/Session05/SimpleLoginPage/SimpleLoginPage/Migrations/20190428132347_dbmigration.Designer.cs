@@ -9,8 +9,8 @@ using SimpleLoginPage.Models;
 namespace SimpleLoginPage.Migrations
 {
     [DbContext(typeof(LoginContext))]
-    [Migration("20190426045514_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20190428132347_dbmigration")]
+    partial class dbmigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -25,6 +25,8 @@ namespace SimpleLoginPage.Migrations
                     b.Property<int>("PersonId")
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int>("Cost");
 
                     b.Property<string>("Name");
 

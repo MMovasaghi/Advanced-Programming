@@ -27,32 +27,52 @@ namespace SimpleLoginPage
 
         private void SignInButton_Click(object sender, RoutedEventArgs e)
         {
-            
-            using (var db = new Models.LoginContext())
-            {
-                var res = db.Blogs.Where(i => i.Username == UserNameTXT.Text && i.Password == PasswordTXT.Password).FirstOrDefault();
-                if (res != null)
-                {
-                    //login Successfully
-                    MessageBox.Show("login Successfully", "Login", MessageBoxButton.OK, MessageBoxImage.Information);
-                }
-                else
-                {
-                    //Password or username is not correct
-                    MessageBox.Show("Password or username is not correct", "Login", MessageBoxButton.OK, MessageBoxImage.Error);
-                }
-            }
+            //Models.Validation v = new Models.Validation();
+            //Models.Person per = new Models.Person()
+            //{
+            //    Username = UserNameTXT.Text,
+            //    Password = PasswordTXT.Password
+            //};
+            //bool a = v.CheckUSERPASS(per);
+            //if (a)
+            //{
+            //    MessageBox.Show(a.ToString());
+            //}
+            //else
+            //{
+            //    MessageBox.Show(a.ToString());
+            //}            
         }
 
         private void CreatorButton_Click(object sender, RoutedEventArgs e)
         {
-            using (var db = new Models.LoginContext())
+            Models.Validation v = new Models.Validation();
+            MessageBox.Show(v.InitialDB().ToString());
+        }
+
+        private void Costtext_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            try
             {
-                db.Blogs.Add(new Models.Person() { Name = "Ali", Username = "ali@gmail.com", Password = "1234" });
-                db.Blogs.Add(new Models.Person() { Name = "Hasan", Username = "hasan@gmail.com", Password = "1234" });
-                db.Blogs.Add(new Models.Person() { Name = "Hossein", Username = "hossein@gmail.com", Password = "1234" });
-                db.Blogs.Add(new Models.Person() { Name = "Maryam", Username = "maryam@gmail.com", Password = "1234" });
-                db.SaveChanges();
+                string str = costtext.Text;
+                int a = Int32.Parse(costtext.Text);
+                if (str.Length > 4)
+                {
+                    throw new Exception();
+                }
+            }
+            catch (Exception)
+            {
+                //costtext.Text = "";
+                string str = costtext.Text;
+                string newstr = "";
+                for (int i = 0; i < str.Length -1 ; i++)
+                {
+                    newstr += str[i];
+                }
+                costtext.Text = newstr;
+                costtext.CaretIndex = costtext.Text.Length;
+                //costtext.IsEnabled = false;
             }
         }
     }

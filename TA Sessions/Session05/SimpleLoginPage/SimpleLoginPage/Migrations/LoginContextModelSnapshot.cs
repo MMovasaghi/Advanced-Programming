@@ -24,6 +24,8 @@ namespace SimpleLoginPage.Migrations
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+                    b.Property<int>("Cost");
+
                     b.Property<string>("Name");
 
                     b.Property<string>("Password");

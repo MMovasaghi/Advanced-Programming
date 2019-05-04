@@ -9,7 +9,7 @@ namespace SimpleLoginPage.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=F:\University\AP_TA\Advanced-Programming\TA Sessions\Session05\SimpleDB;Trusted_Connection=True;");
+            optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=SimpleDB2;Trusted_Connection=True;");
         }
     }
 }
