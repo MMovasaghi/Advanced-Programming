@@ -20,3 +20,7 @@
 
 * [Session05-Part1 WPF Login Form with EF DB](https://www.aparat.com/v/yk6uT)
 * [Session05-Part2 TA](https://www.aparat.com/v/zs18g)
+
+<br/>
+
+* [Session06-WPF User Control and use it as an object](https://www.aparat.com/v/1b59m)
