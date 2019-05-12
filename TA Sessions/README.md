@@ -24,3 +24,9 @@
 <br/>
 
 * [Session06-WPF User Control and use it as an object](https://www.aparat.com/v/1b59m)
+
+<br/>
+
+* [Session07-P1-EntityFramework and Products Page(WPF)](https://www.aparat.com/v/8zEIB)
+* [Session07-P2-Explanation](https://www.aparat.com/v/49AnP)
+* [Session07-P3-GenericType](https://www.aparat.com/v/rAxBk)
