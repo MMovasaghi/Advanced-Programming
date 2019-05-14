@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="Gray">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200*"/>
+            <ColumnDefinition Width="300*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="1">
+            <Button Grid.Column="1" x:Name="CreateSimpleDataInDB" Content="Add Simple Products" Click="CreateSimpleDataInDB_Click" Margin="50 50 50 10"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Start Number : " Margin="50 20 10 50"/>
+                <TextBox x:Name="startNumebr" Width="40" Background="White" Margin="0 10 50 50"/>
+            </StackPanel>
+            
+            <Button x:Name="ShowAllProducts" Content="Show All Products" Margin="50 10 50 50" Click="ShowAllProducts_Click" Background="#FF3AB745" BorderBrush="#FF3AB745" />
+        </StackPanel>
+        
+        <Grid x:Name="showProduct">
+            <ScrollViewer>
+                <StackPanel x:Name="Xpanel" Margin="10"/>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Window>

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace ConsoleApp1
 {
@@ -10,23 +11,30 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Person pInmain = new Person()
+            using (var db = new BlogCo())
             {
-                Name = "ALI",
-                Id = 10
-            };
-            Manager manager = new Manager()
-            {
-                person = new Person() { Name = "HASAN", Id = 20 },
-                Email = "ALI@Gmail.com"
-            };
+                // Create and save a new Blog
+                Console.Write("Enter a name for a new Blog: ");
+                var name = Console.ReadLine();
 
-            Console.WriteLine("PERSON IN MAIN : Name : {0} - Id = {1}" +
-                " \nPERSON IN MANAGER CLASS : Name : {2} - Id : {3}"
-                ,pInmain.Name,pInmain.Id,manager.person.Name,manager.person.Id);
+                var blog = new Blog { Name = name };
+                db.Blogs.Add(blog);
+                db.SaveChanges();
 
-            Console.ReadKey();
+                // Display all Blogs from the database
+                var query = from b in db.Blogs
+                            orderby b.Name
+                            select b;
 
+                Console.WriteLine("All blogs in the database:");
+                foreach (var item in query)
+                {
+                    Console.WriteLine(item.Name);
+                }
+
+                Console.WriteLine("Press any key to exit...");
+                Console.ReadKey();
+            }
         }
     }
 }
