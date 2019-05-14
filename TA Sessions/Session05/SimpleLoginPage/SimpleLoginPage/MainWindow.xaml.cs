@@ -27,21 +27,21 @@ namespace SimpleLoginPage
 
         private void SignInButton_Click(object sender, RoutedEventArgs e)
         {
-            //Models.Validation v = new Models.Validation();
-            //Models.Person per = new Models.Person()
-            //{
-            //    Username = UserNameTXT.Text,
-            //    Password = PasswordTXT.Password
-            //};
-            //bool a = v.CheckUSERPASS(per);
-            //if (a)
-            //{
-            //    MessageBox.Show(a.ToString());
-            //}
-            //else
-            //{
-            //    MessageBox.Show(a.ToString());
-            //}            
+            Models.Validation v = new Models.Validation();
+            Models.Person per = new Models.Person()
+            {
+                Username = UserNameTXT.Text,
+                Password = PasswordTXT.Password
+            };
+            bool a = v.CheckUSERPASS(per);
+            if (a)
+            {
+                MessageBox.Show(a.ToString());
+            }
+            else
+            {
+                MessageBox.Show(a.ToString());
+            }
         }
 
         private void CreatorButton_Click(object sender, RoutedEventArgs e)
