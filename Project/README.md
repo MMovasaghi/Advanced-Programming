@@ -11,3 +11,6 @@
 * [Git-Tutorial-2](https://www.aparat.com/v/yNh5p)
 * [Git-Tutorial-3](https://www.aparat.com/v/IpTvn)
 * [Git-Tutorial-4](https://www.aparat.com/v/ObzKR)
+
+* [Git-Start (Git kraken & Git Tutorial)](https://support.gitkraken.com/start-here/guide/)
+* [Managing Branches](https://support.gitkraken.com/working-with-repositories/branching-and-merging/)
