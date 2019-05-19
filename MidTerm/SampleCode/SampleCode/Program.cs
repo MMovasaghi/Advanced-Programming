@@ -10,18 +10,17 @@ namespace SampleCode
     {
         static void Main(string[] args)
         {
-            Sample<string> sample = new Sample<string>();
+            
+            Sample<string> a = new Sample<string>();
+            Sample<string> HEAD = a;
+            Sample<string> ptr = HEAD;
 
-            sample.Type = "H";
-            Sample<string> s;
-
-            string a = "HELLO WORLD!";
-            for (int i = 0; i < a.Length ; i++)
+            string str = "HELLO WORLD!";
+            for (int i = 0; i < str.Length ; i++)
             {
-                s = new Sample<string>();
-                s.Type = a[i].ToString();
-                s.AnotherSAMPLE = new Sample<string>();
-                s = s.AnotherSAMPLE;
+                ptr.AnotherSAMPLE = new Sample<string>();
+                ptr.AnotherSAMPLE.Type = str[i].ToString();
+                ptr = ptr.AnotherSAMPLE;
             }
             Console.ReadKey();
         }
