@@ -1,0 +1,7 @@
+F:\University\AP_TA\Advanced-Programming\MidTerm\SampleCode\SampleCode\bin\Debug\SampleCode.exe.config
+F:\University\AP_TA\Advanced-Programming\MidTerm\SampleCode\SampleCode\bin\Debug\SampleCode.exe
+F:\University\AP_TA\Advanced-Programming\MidTerm\SampleCode\SampleCode\bin\Debug\SampleCode.pdb
+F:\University\AP_TA\Advanced-Programming\MidTerm\SampleCode\SampleCode\obj\Debug\SampleCode.csprojAssemblyReference.cache
+F:\University\AP_TA\Advanced-Programming\MidTerm\SampleCode\SampleCode\obj\Debug\SampleCode.csproj.CoreCompileInputs.cache
+F:\University\AP_TA\Advanced-Programming\MidTerm\SampleCode\SampleCode\obj\Debug\SampleCode.exe
+F:\University\AP_TA\Advanced-Programming\MidTerm\SampleCode\SampleCode\obj\Debug\SampleCode.pdb
