@@ -1,0 +1,10 @@
+F:\University\AP_TA\Advanced-Programming\TA Sessions\Session13\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\University\AP_TA\Advanced-Programming\TA Sessions\Session13\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\University\AP_TA\Advanced-Programming\TA Sessions\Session13\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\University\AP_TA\Advanced-Programming\TA Sessions\Session13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\University\AP_TA\Advanced-Programming\TA Sessions\Session13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\University\AP_TA\Advanced-Programming\TA Sessions\Session13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\University\AP_TA\Advanced-Programming\TA Sessions\Session13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\University\AP_TA\Advanced-Programming\TA Sessions\Session13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\University\AP_TA\Advanced-Programming\TA Sessions\Session13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\University\AP_TA\Advanced-Programming\TA Sessions\Session13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

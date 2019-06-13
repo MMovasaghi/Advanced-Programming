@@ -1,0 +1,4 @@
+Input : 
+$salam 
+Number Of Char : 
+#56
