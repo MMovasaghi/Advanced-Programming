@@ -13,4 +13,6 @@
 * [Classes and Objects deeper look](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/Classes%20and%20Objects%20deeper%20look.pdf)
 * [lecture-09 Introduction to LINQ & List Collections](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/lecture%209%20Introduction%20to%20LINQ%20%26%20the%20List%20Collections.pdf)
 * [lecture-20generics](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/lecture%2020%20generics.pdf)
-
+* [A Depper Look In Strings](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/string_2.pdf)
+* [Advanced OOP](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/ch_12_polymorphism_3.pdf)
+* [File Procesing](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Lectures/Files_and_Streams_3.pdf)
