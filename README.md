@@ -10,3 +10,8 @@
 * [Git Tutorial](https://github.com/MMovasaghi/Advanced-Programming/blob/master/Project/README.md)
 * [VS-Installation tutorial](https://github.com/MMovasaghi/Advanced-Programming-Csharp/tree/master/VS-Installation)
 * [Text-Book](https://cscnt.savannahstate.edu/StudentFiles/Data_Structure/Visual%20C%23%202012%20How%20to%20Program.pdf)
+
+
+
+### Sorting algorithms
+![Sorting algorithms](https://github.com/MMovasaghi/Advanced-Programming/blob/master/sortingalgorithm.gif)
